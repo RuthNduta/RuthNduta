@@ -12,7 +12,7 @@ I'm always trying to grow and learn something new. I lose track of time dancing 
 - 👯 I’m looking to collaborate on Natural Language Processing projects.
 - 🤔 I’m looking for help with Deep Learning techniques.
 - 💬 Ask me about data science resources.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruth-nduta-muriithi/) [Twitter](
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruth-nduta-muriithi/) [Twitter](https://twitter.com/mr_nduta)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I live on the foot of Mt. Kilimanjaro!
 -->
