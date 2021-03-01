@@ -1,6 +1,6 @@
 ![Header](https://github.com/RuthNduta/RuthNduta/blob/main/Github%20header.jpg "Header")
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Jambo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Ruth Nduta Muriithi, a Data Scientist. I have developed a solid foundation of technical and interpersonal skills that have enabled me to succeed in this field. I am confident in my ability to lead a team on a project; communicate the findings and recommendations of an analysis; or assist in the development of advanced machine learning algorithms. I thrive on tackling complex and difficult problems and employ advanced technical tools to educate, inform, and propel businesses.
 
