@@ -1,9 +1,6 @@
-![Header](https://github.com/Ruth-Nduta/Ruth-Nduta/blob/main/Github%20header.jpg "Header")
+![Header](https://github.com/RuthNduta/RuthNduta/blob/main/Github%20header.jpg "Header")
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<!--
-**RuthNduta/RuthNduta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Ruth Nduta Muriithi! As a Data Scientist, I have developed a solid foundation of technical and interpersonal skills that have enabled me to succeed in all aspects of the data science field. I am confident in my ability to lead a team on a project; communicate the findings and recommendations of an analysis; or assist in the development of advanced machine learning algorithms. I thrive on tackling complex and difficult problems and employ advanced technical tools to educate, inform, and propel businesses.
 
