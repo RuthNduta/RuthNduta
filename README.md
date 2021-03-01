@@ -15,8 +15,6 @@ I'm always trying to grow and learn something new. I lose track of time dancing 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruth-nduta-muriithi/) [Twitter](https://twitter.com/mr_nduta)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I live on the foot of Mt. Kilimanjaro!
--->
-
 
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
