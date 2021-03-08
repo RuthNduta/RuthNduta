@@ -2,7 +2,7 @@
 
 ### Jambo friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ruth Nduta Muriithi, a Data Scientist. I have developed a solid foundation of technical and interpersonal skills that have enabled me to succeed in this field. I am confident in my ability to lead a team on a project; communicate the findings and recommendations of an analysis; or assist in the development of advanced machine learning algorithms. I thrive on tackling complex and difficult problems and employ advanced technical tools to educate, inform, and propel businesses.
+¡hola! My name is Ruth Nduta Muriithi but cool people call me MR. Nduta and I am a Data Scientist. In Data Science I see a purposeful and versatile vocation yet what I love most is its fusion of technology with real life occurrences. I am confident in my ability to lead a team on a project; communicate the findings and recommendations of an analysis; or assist in the development of advanced machine learning algorithms. I thrive on tackling complex and difficult problems and employ advanced technical tools to educate, inform, and propel businesses.
 
 I'm always trying to grow and learn something new. I lose track of time dancing under the stars pretending to be in Hollywood. 
 
